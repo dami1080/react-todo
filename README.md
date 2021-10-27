@@ -5,11 +5,11 @@
 
 # Live Link
 
-Kindly click to view the [App](/)
+Kindly click to view the [App](https://dami1080.github.io/react-todo/)
 
 # Screenshot
 
-![](./src/images/screenshot.png)
+![](./src/image/Screenshot.png)
 
 # Getting Started
 
